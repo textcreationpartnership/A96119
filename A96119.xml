@@ -1,0 +1,312 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The way to get rain by way of question and answer. Shewing the true cause both of too much want, and too much abundance of raine. With the onely remedy and means to remove either of these judgements when they are upon us. As also shewing what we must do upon the removall of either of these judgements.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96119</idno>
+            <idno type="STC">Wing W1168</idno>
+            <idno type="STC">Thomason E1375_1</idno>
+            <idno type="STC">ESTC R209220</idno>
+            <idno type="EEBO-CITATION">99868110</idno>
+            <idno type="PROQUEST">99868110</idno>
+            <idno type="VID">169872</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96119)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169872)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 180:E1375[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The way to get rain by way of question and answer. Shewing the true cause both of too much want, and too much abundance of raine. With the onely remedy and means to remove either of these judgements when they are upon us. As also shewing what we must do upon the removall of either of these judgements.</title>
+               </titleStmt>
+               <extent>[1], 16 [i.e. 15] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Wright at the Kings Head in the old Bayley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text starts on verso of titlepage; p. 15 misnumbered 16; text continuous despite pagination.</note>
+                  <note>Annotation on Thomason copy: "July 10th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Judgment of God --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169872:1" rendition="simple:additions"/>
+            <p>THE Way to get RAIN: By way of <hi>Queſtion</hi> and <hi>Anſwer.</hi>
+            </p>
+            <p>Shewing the true Cauſe both of too much want, and too much abundance of RAINE.</p>
+            <p>With the onely remedy and means to remove either of theſe judgements when they are upon us.</p>
+            <p>As alſo ſhewing what we muſt do upon the removall of either of theſe Judgements.</p>
+            <q>
+               <bibl>
+                  <hi>Job 38, 30.</hi>
+               </bibl>
+               <p>The waters are hid as with a ſtone, and the face of the deep is frozen.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>John Wright</hi> at the Kings Head in the old Bayley. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:169872:2"/>
+            <head>The way to get Raine.</head>
+            <p>Queſtion.</p>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Ho hath the diſpoſing of the raine and ſhowers?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> The Lord only.</p>
+            <p>Q. <hi>How prove you that?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By theſe places of Scripture, <hi>Job</hi> 5.8, 9, 10. I would ſeeke unto God, and unto God would I com<g ref="char:EOLhyphen"/>mit my Cauſe, which doth great things and unſearchable, yea marvellous things without number; who giveth raine up<g ref="char:EOLhyphen"/>on the earth, and ſendeth waters upon the fields:<note place="margin">Job 36.27.</note> For he maketh ſmall the drops of water; they poure down rain according to the vapour thereof. <hi>Job</hi> 37.6. For he ſaith to the ſnow, Be thou upon the earth; likewiſe to the ſmall raine, and the latter raine. <hi>Jer.</hi> 5.24. Neither ſay they in their hearts, Let us now feare the Lord our God, that gi<g ref="char:EOLhyphen"/>veth
+<pb n="2" facs="tcp:169872:2"/>raine, both the former and the lat<g ref="char:EOLhyphen"/>ter raine in their ſeaſon. <hi>Pſalm.</hi> 147.8. Who covereth the heaven with clouds; who prepareth raine for the earth. <hi>Acts</hi> 14.17. And gave us raine from heaven, and fruitfull ſeaſons.</p>
+            <p>Q. <hi>Why doth the earth ſometimes want raine?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe the Lord in judgement with holdeth it from the earth.</p>
+            <p>Q <hi>How prove you that?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By theſe places of Scripture, <hi>Gen.</hi> 2.5. For the Lord God had not cauſed it to raine upon the earth. <hi>Amos</hi> 4.7. And I alſo have withholden the raine from you, when there were yet three moneths to the harveſt; and cauſed it to raine upon one City, and not upon another.</p>
+            <p>Q. <hi>And why doth the Lord ſometimes withhold the raine from the earth?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe of the wickedneſſe of the people that dwell on the earth.</p>
+            <p>Q. <hi>How prove you that?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By theſe places or Scripture, <hi>Lev.</hi> 26.18, 19. And if ye will not yet for all this hearken unto me, then will I puniſh you ſeven times more for your ſins; and I will breake the ride of your power and I will make your heaven as Iron
+<pb n="3" facs="tcp:169872:3"/>and your earth as braſſe. <hi>Jer.</hi> 3.2, 3. Thou haſt poluted thy Land with thy whore<g ref="char:EOLhyphen"/>domes, and with thy wickedneſſe, there<g ref="char:EOLhyphen"/>fore have the ſhowers been withholden, and there hath been no latter raine.</p>
+            <p>Q. <hi>And why hath the earth ſometimes too much raine?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Becauſe the Lord is pleaſed in judgeme<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t to ſend it.</p>
+            <p>Q. <hi>How prove you that?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By theſe places of Scripture, <hi>Job</hi> 36.26, 27, 28. Behold God is great, and we know him not; neither can the num<g ref="char:EOLhyphen"/>ber of his yeers be ſearched out, for he maketh ſmall the drops of water; they power d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wne raine according to the va<g ref="char:EOLhyphen"/>pour thereof, which the clouds do drop and diſtill upon man abundantly. <hi>Job</hi> 38.25. Who hath divided a water courſe for the overflowing of waters. <hi>Job</hi> 28.26. When he made a Decree for the raine, and a way for the lightning and for the thunder.</p>
+            <p>Q. <hi>And why doth the Lord ſometimes ſend too much raine upon the earth?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe of the wickedneſſe of the people that dwell on the earth.</p>
+            <p>Q. <hi>How prove you that?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By theſe place? of Scripture, <hi>Gen.</hi> 6.13. &amp; 7.12. And God ſaid, unto <hi>Noah,</hi>
+               <pb n="4" facs="tcp:169872:3"/>the end of all fleſh is come before me, for the earth is filled with violence through them; and behold I will de<g ref="char:EOLhyphen"/>ſtroy them with the earth; And the rain was upon the earth forty day<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and for<g ref="char:EOLhyphen"/>ty nights. <hi>Ezek.</hi> 38.18, 22. And it ſhall come to paſſe at that ſame time, when <hi>Gog</hi> ſhall come againſt the Land of <hi>Iſrael,</hi> ſaith the Lo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d God, that my fury ſhall come up in my face; and <hi>I</hi> will pleade againſt him with peſtilence, and with blood, and I will raine upon him, and upon his bands, and upon the many people that are with him an overflowing raine.</p>
+            <p>Q <hi>And for what ſins doth the Lord ſome<g ref="char:EOLhyphen"/>times in judgement withhold raine from the earth when it wants it?</hi>
+            </p>
+            <p>A. For five ſpeciall ſins.</p>
+            <p>Q. <hi>And which is the firſt ſin for which the Lord doth ſometimes in judgement with<g ref="char:EOLhyphen"/>hold rain from the earth, when it wants it.</hi>
+            </p>
+            <p>A. The firſt ſin is Idolatry.</p>
+            <p>Q. <hi>How do you prove that?</hi>
+            </p>
+            <p>A. I prove it out or <hi>Deu.</hi> 11 16, 17. where it is ſaid, Take heed to your ſelves, that your hearts be not deceived, and ye turn aſide and ſerve other gods, and worſhip them, and then the Lords wra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h be kind<g ref="char:EOLhyphen"/>led againſt you, and he ſhut up the hea<g ref="char:EOLhyphen"/>ven that there be no raine.</p>
+            <pb n="6" facs="tcp:169872:4"/>
+            <p>Q. <hi>And which is the ſecond ſin, for which the Lord doth ſometimes in judgement with hold raine from the earth when it wants it.</hi>
+            </p>
+            <p>A. For diſobedience to his command<g ref="char:EOLhyphen"/>ments.</p>
+            <p>A. <hi>How do you prove that?</hi>
+            </p>
+            <p>A. I prove it out of <hi>Deut.</hi> 28.15.13, 24. where it is ſaid, But it ſhal come to paſſe, if thou wilt not hearken unto the voyce of the Lord, to obſerve to do all his com<g ref="char:EOLhyphen"/>mandments &amp; his ſtatutes which I com<g ref="char:EOLhyphen"/>mand thee this day, the heaven that is over thy head, ſhall be b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſſe; and the earth that is under thee, ſhall be iron; and the Lord ſhall make the raine of thy land powder and duſt.</p>
+            <p>Q. <hi>And what is the third ſin for which the Lord doth ſometimes in judgement with<g ref="char:EOLhyphen"/>hold raine from the earth when it wants it.</hi>
+            </p>
+            <p>
+               <hi>An.</hi> For not bringing forth fruit an<g ref="char:EOLhyphen"/>ſwerable to the meanes and mercies be<g ref="char:EOLhyphen"/>ſtowed upon a people.</p>
+            <p>
+               <hi>Q. How prove you that?</hi>
+            </p>
+            <p>A. I prove it out of <hi>Iſa 5.4, 5, 6.</hi> where it is ſaid, What could have been done more to my Vineyard, that I have not done in it; wherefore when I looked that it ſhould bring forth grapes, it brought forth wilde grapes. And now I will tell you what I will do to my Vine<g ref="char:EOLhyphen"/>yard;
+<pb n="7" facs="tcp:169872:4"/>I will take away the hedge there<g ref="char:EOLhyphen"/>of, and it ſhall be eaten up, and breake downe the wall thereof, and it ſhall be trodden down; and I will lay it waſte; it ſhall not be pruned nor digged, but there ſhall come up thorns and bryers; I will alſo command the clouds that they raine no raine upon it.</p>
+            <p>
+               <hi>Q. And what is the fourth ſin, for which the Lord doth ſometimes in judgement with<g ref="char:EOLhyphen"/>hold raine from the earth when it is wanting?</hi>
+            </p>
+            <p>A. It is the ſin of oppreſſion and cru<g ref="char:EOLhyphen"/>elty towards the poore.</p>
+            <p>
+               <hi>Q. How prove you that?</hi>
+            </p>
+            <p>A. I prove it out of <hi>Amos</hi> 4.1, 7. where it is ſaid, Heare this word ye Kine of <hi>Ba<g ref="char:EOLhyphen"/>ſhan,</hi> that are in the mountaine of <hi>Sa<g ref="char:EOLhyphen"/>maria,</hi> which oppreſſe the poore, which cruſh the needy; and I alſo have with<g ref="char:EOLhyphen"/>holden the raine from you, when there were yet three moneths to harveſt, and cauſed it to raine upon one City, and not upon another.</p>
+            <p>
+               <hi>Q. And what is the fifth ſin for which the Lord doth ſometimes in judgement withhold raine from the earth, when it is wanting?</hi>
+            </p>
+            <p>A. It is the ſin of neglecting Gods or<g ref="char:EOLhyphen"/>dinances, or omitting his worſhip when he requires it.</p>
+            <p>Q. <hi>How prove you that?</hi>
+            </p>
+            <pb n="8" facs="tcp:169872:5"/>
+            <p>A. I prove it out of <hi>Zech.</hi> 4.17. where it is ſaid: And it ſhall be, that whoſo<g ref="char:EOLhyphen"/>ever will not come up of all the families of the earth unto <hi>Jeruſalem,</hi> to worſhip the King the Lord of Hoaſts, even upon him ſhall be no raine.</p>
+            <p>
+               <hi>Q. And for what ſins doth the Lord ſome<g ref="char:EOLhyphen"/>times in judgement ſend too much raine upon the earth?</hi>
+            </p>
+            <p>A. For two eſpeciall ſins.</p>
+            <p>
+               <hi>Q. And which is the firſt ſinne for which the Lord doth ſometimes in judgement ſend too much raine upon the earth?</hi>
+            </p>
+            <p>A. It is the ſin of unequall and ungod<g ref="char:EOLhyphen"/>ly marriages; when Gods people in their matching, have more reſpect to beauty and worldly conſiderations, then to pie<g ref="char:EOLhyphen"/>ty and godlineſſe.</p>
+            <p>
+               <hi>Q. How prove you that?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I prove it out of <hi>Gen.</hi> 6.2, 3. <hi>Gen.</hi> 7.1,2. Compared together, where it is ſaid that the ſonnes of God ſaw the daughters of men that they were faire, and they tooke them wives of all that they choſe; And the Lord ſaid my ſpirit ſhall not alwayes ſtrive with man, be<g ref="char:EOLhyphen"/>cauſe he is but fleſh, yet his dayes ſhall be an hundred and twenty yeares<g ref="char:punc">▪</g> and the windowes of heaven were opened, and the Raine was upon the earth forty dayes and forty nights.</p>
+            <pb n="9" facs="tcp:169872:5"/>
+            <p>Qu. <hi>And which is the ſecond Sinne, for which the Lord doth ſometimes in Judge<g ref="char:EOLhyphen"/>ment ſend too much Raine upon the earth?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is the ſoothing up of wicked men in their ſinnes, and not denoun<g ref="char:EOLhyphen"/>cing judgements againſt them, as there is cauſe.</p>
+            <p>Q. <hi>How prove you that?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I prove it out of <hi>Ezek.</hi> 13.10 13. Where it is ſaid, Becauſe even becauſe they have ſeduced my people, ſaying peace, and there was no peace, and one built up a wall, and loe others daubed it with untempered morter: Therefore thus ſaith the Lord God, I will even rent it with a ſtormie winde in my fury, and there ſhall be an over-flowing ſhower in mine anger.</p>
+            <p>Q. <hi>Then it ſeemeth if we would obtaine Rain in the time of drought, we muſt expect it onely from the Lord?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yea indeed, if the Lord alone have the diſpoſing of the Raine, then we are ther to we expect it from the Plannets, nor from the Clouds, though the skie be over ſpread with them, no nor yet from the winde, though it be in the South, for all ſuch things are but the vanities of the Gentiles, of whom it is ſaid, <hi>Jer.</hi> 14.22 By way of interogation, which implys a plaine negation.</p>
+            <pb n="10" facs="tcp:169872:6"/>
+            <p>
+               <hi>Are there any among the vanities of the Gen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>les that can cauſe Raine, or can the heavens give ſhowers, art thou not he O Lord our God, therefore we will waite upon thee, for thou haſt made all theſe things?</hi>
+            </p>
+            <p>The Lord onely is the Father of the Raine, and hath begotten the drops of the dew, and therefore we are to ex<g ref="char:EOLhyphen"/>pect it onely from him,</p>
+            <p>Q. <hi>But what muſt we doe that we may obtaine Raine at the hands of the Lord, now in the time of drought?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> We muſt uſe ſuch meanes as the Lord hath preſcribed us.</p>
+            <p>Q. <hi>And what meanes hath the Lord pre<g ref="char:EOLhyphen"/>ſcribed?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That you ſhall finde ſet downe, 2 <hi>Chro.</hi> 7.13.14. Where the Lord ſaith, If I ſhut up heaven that there be no Raine, It my people which are called by my name, ſhall humble themſelves and pray, and ſeeke my face, and turne from their evill wayes, then will I heare in heaven and forgive their ſinnes, and heale their Land.</p>
+            <p>Q. <hi>Then I perceive the firſt thing we muſt doe, is to humble our ſelves, but how ſhall we doe that truly,</hi>
+            </p>
+            <p>
+               <hi>A.</hi> If we would humble our ſelves truly, we muſt ſeriouſly examine our
+<pb n="11" facs="tcp:169872:6"/>ſelves what ſinnes we have beene guilty of, and eſpecially as touching thoſe ſinnes, for which as you heard the Lord with holdeth Raine.</p>
+            <p>Q. <hi>I pray you inſtruct me a little far<g ref="char:EOLhyphen"/>ther in this point, and repeate thoſe Sinnes againe, for which the Lord with-holdeth Raine in the time of drought?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The firſt is Idolatry, and there<g ref="char:EOLhyphen"/>fore if you would truly humble your ſelfe for your ſinnes, examine your ſelf whether you have not loved, deſired feared, and truſted in ſome creature, e<g ref="char:EOLhyphen"/>ther more then in God, or equall with God. The Second is, diſobeydience to Gods Commandements, and therefore if you would truly humble your ſelfe, you muſt examine your heart and life by ſome ſpirituall expoſition of the ten Commandements. The third is, not bringing forth fruit anſwerable to the meanes and mercies beſtowed on us, and therefore if you would truly humble your ſelfe, you muſt examine your ſelfe whether you have grown in grace, and been filled with the fruits of righteouſ<g ref="char:EOLhyphen"/>neſſe, anſwerable to thoſe meanes and mercies, which the Lord hath beſtowed on you. The fourth ſinne is, oppreſſion and cruelty to the poore, and therefore
+<pb n="11" facs="tcp:169872:7"/>if you would truly humble your ſelfe, you muſt examine your ſelfe whether you have not taken all advantages to enhance the priſes of ſuch Commodi<g ref="char:EOLhyphen"/>ties, as you have dealt in, and thereby oppreſſed the poore and needie. The laſt ſinne is, neglecting Gods Ordi<g ref="char:EOLhyphen"/>nance, and therefore if you would tru<g ref="char:EOLhyphen"/>ly humble your ſelfe for your ſinnes, you muſt examine your ſelfe, whether you have not ſomtimes omitted prayer, hearing, reading, and receiving the ſa<g ref="char:EOLhyphen"/>crament, when you might and ought.</p>
+            <p>Q. <hi>Well, the next thing we muſt doe is to pray, but how ſhall we doe that aright</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is the ſpirit of Jeſus Chriſt on<g ref="char:EOLhyphen"/>ly that can teach you to pray aright, But if you ſtand in need of, and do de<g ref="char:EOLhyphen"/>ſire a briefe plat-forme of prayer for Rain, now in the time of drought, then ſay from your heart,</p>
+            <p>O moſt holy and gracious Lord, for we doe here acknowledge befo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e thee, that we have ſinned aginſt thee; we have broken every one of thy holy and juſt Commandements, for we have loved, deſired, feared, and truſted in the crea<g ref="char:EOLhyphen"/>tures; yea, and delighted in the crea<g ref="char:EOLhyphen"/>ture more then in thee, wee have beene very unthankfull in the time of plenty,
+<pb n="12" facs="tcp:169872:7"/>and have not brought forth fruit an<g ref="char:EOLhyphen"/>ſwerable to the meanes and mercies be<g ref="char:EOLhyphen"/>ſtowed upon us; we have omitted prayer, hearing, reading &amp; receiving the ſacra<g ref="char:EOLhyphen"/>ment, when thou haſt called us thereun<g ref="char:EOLhyphen"/>to, we have taken thy tytles, atributes, word and workes in vain, by uſing them ignorantly, irreverently, and after a for<g ref="char:EOLhyphen"/>mall courſary manner, we have pro<g ref="char:EOLhyphen"/>phaned thy day, by thinking our owne thoughts ſpeaking our owne words, and doing our owne workes, we have beene diſobedient to ſuperiours, and beene much failing and wanting in our duties to inferiours; we have been raſhly and ſinfully angrie, and not free from ma<g ref="char:EOLhyphen"/>lice and envie, neither have we been free from unchaſt and luſtfull thoughts we have immoderatly deſired to be rich, and have not alwaies dealt ſo uprightly and juſtly, in buying and ſelling, in borrowing and lending, as we ought we have ſometimes contemned, and and thought too baſely of others, and have beene guilty of evill ſurmiſings and wrongful ſuſpition, and have ſometimes raſhly and unjuſtly judged, and ſenſured others, and ſpoken evill of them behind their backes, finally, O Lord we have been guilty of covetouſeneſſe, and diſ<g ref="char:EOLhyphen"/>contentedneſſe with our preſent, con<g ref="char:EOLhyphen"/>dition,
+<pb n="13" facs="tcp:169872:8"/>and have had inward longings for that which hath belonged to other men.</p>
+            <p>Now Lord for theſe &amp; other ſins wher<g ref="char:EOLhyphen"/>of we have been guilty, we have juſtly de<g ref="char:EOLhyphen"/>ſerved damnation in hel, how much more this judgment and chaſtiſement of exceſ<g ref="char:EOLhyphen"/>ſive drought and want of Raine; But yet ſeeing thou haſt been pleaſed to declare thy ſelfe to be abundantly gracious and mercifull in thy ſonne Jeſus Chriſt, and doſt require us to ſeeke thy fatherly face in him, loe we come to ſeeke thy face, and to meete thee in him, praying and beſeeching thee to manifeſt thy ſelfe in him to be a moſt gracious mercifull and reconciled Father, in pardoning and forgiving theſe and all our other ſinnes, and to turne our hearts againſt them, and to give us victory over them, and heale our land of this immoderate drought and want of Raine. <hi>O Lord though our iniquities,</hi>
+               <note place="margin">Jer. 14.7.</note> 
+               <hi>teſtifie againſt us, doe thou it for thy name ſake, for our back<g ref="char:EOLhyphen"/>ſlidings are many:</hi> O Lord we read that <hi>Eliah was a man ſubject to the like paſſions that we be,</hi>
+               <note place="margin">Jam. 5.17.18.</note> 
+               <hi>and he prayed earneſtly that it might not Raine, and it Rained not on the earth by the ſpace of three yeares and ſix moneths, and he prayed againe, and the
+<pb n="14" facs="tcp:169872:8"/>heavens gave Raine, and the earth brought forth her fruit;</hi> Now therefore O Lord we pray thee heare us for thy mercy ſake. <hi>Are there any among the vanities of the gentiles that can give us Raine, or can the heavens give ſhowers, art not thou he O Lord our God<g ref="char:punc">▪</g> therefore we will wait on thee, for thou haſt made al theſe things, Jer.</hi> 14.22.</p>
+            <p>Q. <hi>And will the Lord heare our pray<g ref="char:EOLhyphen"/>er if wee thus pray, and will hee ſend us Raine?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Doubtleſſe if we could thus hum<g ref="char:EOLhyphen"/>bly acknowledge our Sins, and thus by prayer ſeeke Gods facein Chriſt, and then truly turne from our evill wayes, God would according to his promiſe <hi>forgive our ſinnes and heale our Land,</hi> it is our iniquities, which doe ſeperate be<g ref="char:EOLhyphen"/>tweene us and our God, and hinder the ſhowers from comming downe upon us, and therefore if we could but turn from our iniquities, and yeeld obedience to his Commandements, he would ſend us Raine, according to his gracious pro<g ref="char:EOLhyphen"/>miſe, <hi>Levit.</hi> 26.3, 4. If ye walke in my Statues, and keep my Commandments and do them, then will I give you Raine in due ſeaſon, and the Land ſhall yeeld her increaſe, and the trees of the field ſhall yeeld their fruite, and againe, <hi>Dev.</hi>
+               <pb n="16" facs="tcp:169872:9"/>11.13.14. And it ſhall come to paſſe, <hi>If you ſhall barken diligently to my com<g ref="char:EOLhyphen"/>mandements, which I command you this day to love the Lord your God, and to ſerve him with all your heart, and with all your ſoule, that I will give you the Raine of your Land in due ſeaſon, the firſt Raine, and the latter Raine, that thou maiſt gather in thy Corne, and thy Wine, and thine Oyle.</hi>
+            </p>
+            <p>Yea, to conclude, then the Lord would ſay unto us, aske ye of the Lord Raine, in the the time of the latter Raine, ſo the Lord ſhall make bright clouds,<note place="margin">Zech. 10.1.</note> and give them ſhowers of Rain to every one graſſe in the feilds.</p>
+            <p>Q. <hi>And what if after we have uſed all theſe meanes, the Lord be pleaſed either to ſend us Raine in the time of exceſſive drought, or to ſend us faire weather in the time of exceſſive Raine, what muſt we doe then?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Then we muſt from our hearts ſay with <hi>David, Pſa.</hi> 115. 1. <hi>Not unto us O Lord, not unto us, but unto thy name give the glo<g ref="char:EOLhyphen"/>ry for thy mercy and thy truth ſake;</hi> And we muſt not only thank the Lord with our lippes, but alſo in our lives, by fearing to doe any thing, which may diſpleaſe him, and endeavouring to do all things that may pleaſe him.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
